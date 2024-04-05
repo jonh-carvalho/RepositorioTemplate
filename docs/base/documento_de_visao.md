@@ -76,9 +76,9 @@ A aplicação não será responsável...
 
 ## Referências Bibliográficas
 
-> IBM Knowledge Center. Documento de visão. Disponível em https://www.ibm.com/support/knowledgecenter/pt-br/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html Acesso em 24/08/20
+> Documento de visão. Disponível em https://www... Acesso em dd/MM/yyYY
 
-> +Monitoria. Documento de visão. Disponível em  Acesso em 24/08/20
+> Documento de visão. Disponível em  Acesso em dd/MM/yyYY
 
 ## Versionamento
 | Data | Versão | Descrição | Autor(es) |
