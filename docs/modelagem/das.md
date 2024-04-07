@@ -4,7 +4,7 @@ title: Documento de Arquitetura
 ---
  
 # Documento de Arquitetura de Software (DAS)
-# TCM
+# "Nome do Projeto"
  
 # Introdução
 ## Proposta
@@ -14,7 +14,7 @@ Este documento apresenta uma visão geral da arquitetura do sistema, utilizando 
  
 ## Escopo
 <p align = "justify">
-A aplicação TCM tem o objetivo fornecer aos atletas e esportistas uma ferramenta que possa facilitar a criação, gerenciamento e organização de partidas, torneios e competições de tênis amadoras. Os atletas poderão se inscrever em diversos campeonatos disponíveis e terão acesso às informações de forma clara e objetiva sobre os torneios e partidas que estão envolvidos.
+A aplicação "XXXX" tem o objetivo fornecer...
 </p>
  
 ## Definições, Acrônimos e Abreviações
