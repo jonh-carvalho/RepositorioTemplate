@@ -10,7 +10,7 @@ title: Titulo do documento
 <!-- Escreva uma introdução simples e concisa, explicando do que se trata o documento e como ele será usado no projeto (qual o objetivo do documento). -->
 </p>
 
-## Metodologia
+## Metodologia 
 
 <p align = "justify">
 <!-- Descreva como o documento foi feito, como a técnica foi utilizada no projeto. -->
@@ -29,7 +29,7 @@ title: Titulo do documento
 <!-- Escreva aqui a primeira versão do documento. -->
 </p>
 
-## Conclusão
+## Conclusão  
 
 <p align = "justify">
 <!-- Descreva neste tópico como a aplicação da técnica e a criação do documento foi útil para o projeto. -->
